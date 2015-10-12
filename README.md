@@ -1,6 +1,13 @@
 # Ejemplo de Dashboard - guillehorno.com
 
-Para poder usar este dashboard solo tienen que clonar este repositorio y ajustarlo a sus necesidades.
+Para poder usar este dashboard solo tienen que clonar este repositorio y ajustarlo a sus necesidades:
+
+Para clonar el repositorio localmente:
+
+```
+git clone https://github.com/guillehorno/dashboard-ejemplo
+cd dashboard-ejemplo
+```
 
 Es necesario contar con ruby (https://www.ruby-lang.org/es/documentation/installation/) y bundler (http://bundler.io/)
 
